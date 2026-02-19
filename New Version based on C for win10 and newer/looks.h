@@ -1,0 +1,1 @@
+#define border "\x1B[99m"
